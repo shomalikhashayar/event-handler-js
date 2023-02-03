@@ -1,0 +1,18 @@
+.area-you-want-to-add-event-to-it {
+  background-color: #3578ff;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: -10px;
+  /* -1/2 width */
+  margin-top: -10px;
+  /* -1/2 height */
+
+  cursor: pointer;
+}
+
+.hover {
+  background-color: rgb(255, 68, 68);
+}
